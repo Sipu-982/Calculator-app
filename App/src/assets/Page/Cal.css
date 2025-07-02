@@ -1,0 +1,15 @@
+.multi-bg{
+    background: linear-gradient(45deg, rgb(4, 19, 136),rgb(255, 0, 0));
+}
+.cal-bg{
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+    background: rgb(0, 0, 0,0.4);
+}
+.cal-bg .button-bg{
+   background: rgb(0, 0, 0,0.9);
+}
+.op-bg{
+    background: rgba(250, 1, 254, 0.3);
+    border-radius: 50%;
+}
