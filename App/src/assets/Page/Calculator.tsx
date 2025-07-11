@@ -36,7 +36,7 @@ const Calculator = () => {
     }
   return (
    <div className='w-full multi-bg min-h-[100vh] flex justify-center items-center'>
-     <div className="cal-bg max-w-[600px] p-4 min-h-[250px] rounded shadow-xl">
+     <div className="cal-bg max-w-[600px] mx-5 p-4 min-h-[250px] rounded shadow-xl">
         <div className="w-full cal-bg border text-indigo-900 font-bold border-gray-500 rounded-[5px] h-15 text-2xl mr-4 mb-4 mt-4 flex justify-end items-center text-right p-4">
             {input || "0"}
         </div>
