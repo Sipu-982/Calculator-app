@@ -4,12 +4,12 @@
 .cal-bg{
     -webkit-backdrop-filter: blur(15px);
     backdrop-filter: blur(15px);
-    background: rgb(0, 0, 0,0.4);
+    background: rgba(243, 242, 242, 0.7);
 }
 .cal-bg .button-bg{
-   background: rgb(0, 0, 0,0.9);
+   background: rgb(255, 255, 255);
 }
 .op-bg{
-    background: rgba(250, 1, 254, 0.3);
+    background: rgb(1, 93, 32);
     border-radius: 50%;
 }
